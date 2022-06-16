@@ -13,7 +13,7 @@ LEFT = 1
 SCROLL = 2
 RIGHT = 3
 
-REFRESH_RATE = 30
+REFRESH_RATE = 3
 winner = -1
 
 
